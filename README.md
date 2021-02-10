@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-#Gitチュートリアル
+#Git tutorial
 
 -feature-AAA 
-=======
-abcdefg
+-fix -B
 
-
->>>>>>> feature-A
